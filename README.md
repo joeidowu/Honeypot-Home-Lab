@@ -7,7 +7,9 @@ In this project, I set up a basic home SOC in Azure from scratch. Using a free A
 <h2>Languages and Utilities Used</h2>
 
 - <b>Microsoft Azure</b> 
+- <b>Microsoft Sentinel</b>
 - <b>KQL</b>
+- <b>MacOS</b>
 
 <h2>Environments Used </h2>
 
